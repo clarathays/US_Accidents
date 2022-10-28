@@ -5,6 +5,7 @@
 Grupo: Manuel Pereda y Clara Thays
 
 El archivo original esta en: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+Dado que el archivo es muy pesado para subirlo a Git, agregamos una Notebook que toma el link del CSV, y lo descarga. Ahi se encuentran los pasos a seguir.
 
 # CONCLUSIÓN
 
